@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "itemName": "Acer Monitor 1",
+      "category": "Monitors",
+      "price": 200,
+      "manufacturer": "Acer",
+      "productionDate": "March 15 2019"
+    },
+    {
+      "id": 2,
+      "itemName": "Acer Monitor 2",
+      "category": "Monitors",
+      "price": 250,
+      "manufacturer": "Acer",
+      "productionDate": "December 15 2019"
+    },
+    {
+      "id": 3,
+      "itemName": "Dell Monitor 1",
+      "category": "Monitors",
+      "price": 350,
+      "manufacturer": "Dell",
+      "productionDate": "December 15 2019"
+    },
+    {
+      "id": 4,
+      "itemName": "Dell Monitor 2",
+      "category": "Monitors",
+      "price": 450,
+      "manufacturer": "Dell",
+      "productionDate": "December 15 2021"
+    },
+    {
+      "id": 5,
+      "itemName": "AMD Ryzen5",
+      "category": "Processors",
+      "price": 500,
+      "manufacturer": "AMD",
+      "productionDate": "December 15 2017"
+    },
+    {
+      "id": 6,
+      "itemName": "Intel i5",
+      "category": "Processors",
+      "price": 700,
+      "manufacturer": "Intel",
+      "productionDate": "December 15 2016"
+    },
+    {
+      "id": 7,
+      "itemName": "ROG AMD Ryzen 7",
+      "category": "Laptops",
+      "price": 1500,
+      "manufacturer": "Asus",
+      "productionDate": "January 3 2021"
+    },
+    {
+      "id": 8,
+      "itemName": "Intel i7",
+      "category": "Laptops",
+      "price": 1800,
+      "manufacturer": "Intel",
+      "productionDate": "November 15 2019"
+    },
+    {
+      "id": 9,
+      "itemName": "Logitech Keyboard 1",
+      "category": "Keyboards",
+      "price": 20,
+      "manufacturer": "Logitech",
+      "productionDate": "September 20 2018"
+    },
+    {
+      "id": 10,
+      "itemName": "Logitech Wireless Keyboard",
+      "category": "Keyboards",
+      "price": 50,
+      "manufacturer": "Logitech",
+      "productionDate": "December 25 2020"
+    }
+  ]
+}
